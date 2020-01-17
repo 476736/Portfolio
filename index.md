@@ -2,5 +2,5 @@
 
 ### Samuel
 
-[social](https://476736.github.io/Portfolio/social.html)
-[Contact Me](https://476736.github.io/Portfolio/social.html)
+[Social Media](https://476736.github.io/Portfolio/social.html)  
+[Contact-Form](https://476736.github.io/Portfolio/social.html)
