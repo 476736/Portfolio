@@ -1,3 +1,3 @@
 # Social Media
-# Instagram: 
-# Linkedin: 
+# Twitter: @VisualBattalion
+# Youtube: Samuel Tamkin
