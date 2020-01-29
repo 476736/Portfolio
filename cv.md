@@ -20,3 +20,7 @@ layout: default
  </p>
  
  <img src="/Portfolio/assets/img/horror_game_two.png" alt="Horror Game" width="100%">
+
+<p>
+  My achievements include developing, and producing three Unity games. I have also created two websites.
+</p>
