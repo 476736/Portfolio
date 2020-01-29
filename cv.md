@@ -10,13 +10,13 @@ layout: default
 <img src="/Portfolio/assets/img/horror_game.png" alt="Horror Game" width="100%">
 
 <p>
-  My skills include:
-  - c# Programming 
-  - Website Development
-  - Researching
-  - html Programming
-  - Able to use Unity
-  - Photoshop
+  My skills include:  
+  - c# Programming   
+  - Website Development  
+  - Researching  
+  - html Programming  
+  - Able to use Unity  
+  - Photoshop  
  </p>
  
  
