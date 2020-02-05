@@ -6,4 +6,4 @@ title: Gallery
 
 # Gallery of work
 
-<img src="/Portfolio/assets/img/codeOne.png" alt="CODE" width="100%">
+<img src="/Portfolio/assets/img/codeOne.PNG" alt="CODE" width="100%">
